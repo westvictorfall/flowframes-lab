@@ -36,4 +36,4 @@ Powerful **Flowframes Lab** filmmaking solution providing professional color sci
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.   
+> This repository is provided for educational and utility purposes only. Use at your own discretion.    
